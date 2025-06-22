@@ -6,13 +6,13 @@ convert_ki_to_mean_pki <- function(binding_affinities) {
   DEFAULT_KI_MEAN <- mean(binding_affinities$ki_nm)
   DEFAULT_KI_SE <- sd(binding_affinities$ki_nm) / sqrt(nrow(binding_affinities))
 
-  pkis <- dplyr::select(binding_affinities, receptor, drug, ki_nm) |>
+  pkis <- suppressWarnings(dplyr::select(binding_affinities, receptor, drug, ki_nm) |>
     dplyr::mutate(ki_nm = -log10(ki_nm*1e-8) - 4) |>
     dplyr::group_by(receptor, drug) |>
     dplyr::summarise_each(list(
       pki_mean = function(x) { return(mean(x, trim = 0.2)) },
       pki_se = function(x) { sd(x)/sqrt(length(x)) })
-    )
+    ))
 
   #set default values here...
   pkis$pki_mean[is.na(pkis$pki_mean)] <- DEFAULT_KI_MEAN
@@ -57,20 +57,3 @@ calculate_bootstrap_values <- function(pki_values, mr_results) {
   return(results)
 }
 
-
-binding_affinities <- data.table::fread("data/ki_summary_data.tsv") |>
-  dplyr::filter(ki_nm < 10000)
-
-#phewas_beta, phewas_se, qtl_beta
-phewas_results <- data.table::fread("data/phewas_and_qtl_data.tsv")
-
-pki_values <- convert_ki_to_mean_pki(binding_affinities)
-mr_results <- calculate_wald_ratio(phewas_results)
-results <- calculate_bootstrap_values(pki_values, mr_results)
-
-#Now you can aggregate the results by receptor, or by drug
-score_by_receptor <- dplyr::group_by(results, receptor) |>
-  dplyr::summarise(score=sum(bootstrap_mean_abs))
-
-score_by_side_effect <- dplyr::group_by(results, side_effect) |>
-  dplyr::summarise(score=sum(bootstrap_mean_abs))

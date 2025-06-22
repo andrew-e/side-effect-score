@@ -1,0 +1,56 @@
+# Calculating a side-effect score
+
+This example will walk through the process of calculating the score for each receptor and side effect, which will run the code as described in `calculate_side_effect_score.R`
+
+Note that before these steps are run, we have already filtered out the results that did not pass the p-value threshold when accounting for multiple testing, and have also filtered out any results that did not have a sufficient colocalization PPH4 score.
+
+### KI Summary Data
+
+First, we read in the KI summary data, and filter out any values that are greater than 10,000 nM.  This is to remove any KI values that do not have any real effect.
+
+```{r}
+source("calculate_side_effect_score.R")
+
+binding_affinities <- data.table::fread("data/ki_summary_data.tsv") |>
+  dplyr::filter(ki_nm < 10000)
+
+head(binding_affinities, n = 5)
+```
+
+### Phewas and QTL Data
+
+Next, we read in the Phewas and QTL data.  This includes the beta and standard error for both the Phewas and QTL results.
+
+```{r}
+#phewas_beta, phewas_se, qtl_beta
+phewas_results <- data.table::fread("data/phewas_and_qtl_data.tsv")
+head(phewas_results, n = 5)
+```
+
+### Calculate the Score
+
+Now we can calculate the score for each receptor and side effect.  We first convert the KI values to pKi values, and then calculate the Wald Ratio for each SNP.  We then bootstrap the results to get a standard error for the score.
+
+```{r}
+pki_values <- convert_ki_to_mean_pki(binding_affinities)
+mr_results <- calculate_wald_ratio(phewas_results)
+results <- calculate_bootstrap_values(pki_values, mr_results)
+
+```
+
+### Aggregate the Results
+
+Now we can aggregate the results by receptor, or by drug.
+
+```{r}
+#Now you can aggregate the results by receptor, or by drug
+score_by_receptor <- dplyr::group_by(results, receptor) |>
+  dplyr::summarise(score=sum(bootstrap_mean_abs))
+
+score_by_receptor
+
+score_by_side_effect <- dplyr::group_by(results, side_effect) |>
+  dplyr::summarise(score=sum(bootstrap_mean_abs))
+
+score_by_side_effect
+```
