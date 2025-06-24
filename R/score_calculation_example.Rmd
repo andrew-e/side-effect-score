@@ -45,12 +45,14 @@ Now we can aggregate the results by receptor, or by drug.
 ```{r}
 #Now you can aggregate the results by receptor, or by drug
 score_by_receptor <- dplyr::group_by(results, receptor) |>
-  dplyr::summarise(score=sum(bootstrap_mean_abs))
+  dplyr::summarise(score = sum(bootstrap_mean_abs))
 
 score_by_receptor
 
 score_by_side_effect <- dplyr::group_by(results, side_effect) |>
-  dplyr::summarise(score=sum(bootstrap_mean_abs))
+  dplyr::summarise(score = sum(bootstrap_mean_abs))
 
 score_by_side_effect
 ```
+
+Please note that due to the parametric nature of the bootstrap, the results will be slightly different each time the code is run.

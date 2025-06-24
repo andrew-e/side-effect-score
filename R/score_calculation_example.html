@@ -372,13 +372,13 @@ binding_affinities &lt;- data.table::fread(&quot;data/ki_summary_data.tsv&quot;)
   dplyr::filter(ki_nm &lt; 10000)
 
 head(binding_affinities, n = 5)</code></pre>
-<pre><code>##    receptor       drug ki_nm target_action
-##      &lt;char&gt;     &lt;char&gt; &lt;num&gt;        &lt;lgcl&gt;
-## 1:    HTR2A  clozapine   1.6            NA
-## 2:     DRD1  clozapine 196.0            NA
-## 3:     DRD1 olanzapine  35.0            NA
-## 4:     DRD2  clozapine 168.0            NA
-## 5:     DRD2 olanzapine  30.3            NA</code></pre>
+<pre><code>##    receptor       drug ki_nm target_action dosage_adjustment
+##      &lt;char&gt;     &lt;char&gt; &lt;num&gt;        &lt;lgcl&gt;             &lt;int&gt;
+## 1:    HTR2A  clozapine   1.6            NA                10
+## 2:     DRD1  clozapine 196.0            NA                10
+## 3:     DRD1 olanzapine  35.0            NA                 1
+## 4:     DRD2  clozapine 168.0            NA                10
+## 5:     DRD2 olanzapine  30.3            NA                 1</code></pre>
 </div>
 <div id="phewas-and-qtl-data" class="section level3">
 <h3>Phewas and QTL Data</h3>
@@ -408,8 +408,10 @@ head(phewas_results, n = 5)</code></pre>
 first convert the KI values to pKi values, and then calculate the Wald
 Ratio for each SNP. We then bootstrap the results to get a standard
 error for the score.</p>
-<pre class="r"><code>pki_values &lt;- convert_ki_to_mean_pki(binding_affinities)
-mr_results &lt;- calculate_wald_ratio(phewas_results)
+<pre class="r"><code>pki_values &lt;- convert_ki_to_mean_pki(binding_affinities)</code></pre>
+<pre><code>## `summarise()` has grouped output by &#39;receptor&#39;. You can override using the
+## `.groups` argument.</code></pre>
+<pre class="r"><code>mr_results &lt;- calculate_wald_ratio(phewas_results)
 results &lt;- calculate_bootstrap_values(pki_values, mr_results)</code></pre>
 </div>
 <div id="aggregate-the-results" class="section level3">
@@ -417,43 +419,43 @@ results &lt;- calculate_bootstrap_values(pki_values, mr_results)</code></pre>
 <p>Now we can aggregate the results by receptor, or by drug.</p>
 <pre class="r"><code>#Now you can aggregate the results by receptor, or by drug
 score_by_receptor &lt;- dplyr::group_by(results, receptor) |&gt;
-  dplyr::summarise(score=sum(bootstrap_mean_abs))
+  dplyr::summarise(score = sum(bootstrap_mean_abs))
 
 score_by_receptor</code></pre>
 <pre><code>## # A tibble: 18 × 2
 ##    receptor  score
 ##    &lt;chr&gt;     &lt;dbl&gt;
-##  1 ADRA1A   1.15  
-##  2 ADRA1B   0.434 
-##  3 ADRA2A   0.0284
-##  4 ADRA2B   1.53  
-##  5 ADRB1    3.63  
-##  6 ADRB2    0.352 
-##  7 CHRM1    1.93  
-##  8 CHRM4    2.42  
-##  9 DRD2     0.279 
-## 10 DRD4     0.156 
-## 11 HRH1     3.83  
-## 12 HTR1D    0.0530
-## 13 HTR1E    0.141 
-## 14 HTR2B    0.219 
-## 15 HTR3A    0.782 
-## 16 HTR6     0.104 
-## 17 HTR7     1.62  
-## 18 SLC6A4   0.0429</code></pre>
+##  1 ADRA1A   2.32  
+##  2 ADRA1B   0.863 
+##  3 ADRA2A   0.0577
+##  4 ADRA2B   3.07  
+##  5 ADRB1    3.96  
+##  6 ADRB2    0.197 
+##  7 CHRM1    3.88  
+##  8 CHRM4    4.79  
+##  9 DRD2     0.555 
+## 10 DRD4     0.307 
+## 11 HRH1     7.73  
+## 12 HTR1D    0.106 
+## 13 HTR1E    0.283 
+## 14 HTR2B    0.438 
+## 15 HTR3A    1.53  
+## 16 HTR6     0.205 
+## 17 HTR7     3.27  
+## 18 SLC6A4   0.0851</code></pre>
 <pre class="r"><code>score_by_side_effect &lt;- dplyr::group_by(results, side_effect) |&gt;
-  dplyr::summarise(score=sum(bootstrap_mean_abs))
+  dplyr::summarise(score = sum(bootstrap_mean_abs))
 
 score_by_side_effect</code></pre>
 <pre><code>## # A tibble: 6 × 2
 ##   side_effect             score
 ##   &lt;chr&gt;                   &lt;dbl&gt;
-## 1 Eosinophilia            0.617
-## 2 Hypertension           16.2  
-## 3 Lymphadenopathy         0.423
-## 4 Neutropenia             0.601
-## 5 Weight                  0.111
-## 6 White blood cell count  0.744</code></pre>
+## 1 Eosinophilia            1.26 
+## 2 Hypertension           28.6  
+## 3 Lymphadenopathy         0.906
+## 4 Neutropenia             1.17 
+## 5 Weight                  0.222
+## 6 White blood cell count  1.45</code></pre>
 </div>
 </div>
 

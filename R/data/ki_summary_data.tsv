@@ -1,553 +1,553 @@
-receptor	drug	ki_nm	target_action
-HTR2A	clozapine	1.6	NA
-DRD1	clozapine	196	NA
-DRD1	olanzapine	35	NA
-DRD2	clozapine	168	NA
-DRD2	olanzapine	30.3	NA
-DRD2	clozapine	291	NA
-DRD2	olanzapine	37.7	NA
-DRD3	clozapine	473	NA
-DRD3	olanzapine	49	NA
-DRD4	olanzapine	29.5	NA
-DRD4	clozapine	54.5	NA
-DRD5	clozapine	281	NA
-DRD5	olanzapine	74	NA
-HTR2A	clozapine	23.2	NA
-HTR2A	olanzapine	24.2	NA
-HTR2C	clozapine	10.7	NA
-HTR2C	olanzapine	6.4	NA
-HTR6	clozapine	9.5	NA
-HTR6	olanzapine	10	NA
-HTR2B	clozapine	7.15	NA
-HTR2B	clozapine	3.43	NA
-HTR2B	clozapine	8.51	NA
-HTR2C	clozapine	4.26	NA
-HTR2B	clozapine	7.57	NA
-HTR2B	olanzapine	11.8	NA
-HTR2A	clozapine	6.51	NA
-HTR2A	olanzapine	2.53	NA
-HTR2C	clozapine	36	NA
-HTR2C	olanzapine	28.6	NA
-DRD2	clozapine	420	NA
-DRD2	clozapine	187	NA
-DRD2	olanzapine	52	NA
-DRD2	clozapine	180	NA
-DRD2	clozapine	137	NA
-DRD2	olanzapine	35	NA
-DRD2	clozapine	82	NA
-DRD2	clozapine	59	NA
-DRD2	clozapine	44	NA
-DRD2	isoclozapine	5.8	NA
-DRD2	olanzapine	3.7	NA
-DRD4	clozapine	1.6	NA
-DRD4	isoclozapine	5.8	NA
-DRD4	olanzapine	2	NA
-HTR2A	clozapine	11	NA
-HTR2A	isoclozapine	1.45	NA
-HTR2A	olanzapine	5.8	NA
-DRD2	clozapine	38	NA
-DRD3	clozapine	88	NA
-DRD4	clozapine	41.7	NA
-DRD4	clozapine	34.7	NA
-HRH3	clozapine	10000	NA
-HTR1A	clozapine	140	NA
-HTR1A	olanzapine	2720	NA
-HTR1B	clozapine	390	NA
-HTR1B	olanzapine	660	NA
-HTR1D	clozapine	580	NA
-HTR1D	olanzapine	540	NA
-HTR1E	clozapine	430	NA
-HTR1E	olanzapine	2010	NA
-HTR1F	clozapine	130	NA
-HTR1F	olanzapine	310	NA
-HTR2A	clozapine	9.6	NA
-HTR2A	olanzapine	2.5	NA
-DRD2	clozapine	190	NA
-DRD2	olanzapine	31	NA
-DRD2	clozapine	150	NA
-DRD2	olanzapine	21	NA
-DRD3	clozapine	280	NA
-DRD3	olanzapine	49	NA
-ADRA2A	clozapine	50	NA
-ADRA2A	olanzapine	470	NA
-ADRA2B	clozapine	22	NA
-ADRA2B	olanzapine	180	NA
-ADRA2C	clozapine	9.1	NA
-ADRA2C	olanzapine	210	NA
-ADRB1	clozapine	5000	NA
-ADRB1	olanzapine	5000	NA
-ADRB2	clozapine	1650	NA
-ADRB2	olanzapine	5000	NA
-HRH1	clozapine	0.23	NA
-HRH1	olanzapine	0.65	NA
-DRD2	clozapine	69	NA
-DRD3	clozapine	479	NA
-DRD2	clozapine	180	NA
-HRH1	clozapine	2.8	NA
-HRH1	clozapine	1.2	NA
-DRD2	clozapine	178.57	NA
-HRH1	clozapine	2.77	NA
-DRD2	clozapine	130	NA
-DRD2	clozapine	143	NA
-DRD2	clozapine	176	NA
-DRD2	clozapine	149	NA
-DRD2	clozapine	330	NA
-HRH3	clozapine	10000	NA
-HRH3	clozapine	10000	NA
-HRH4	clozapine	849.6	NA
-HRH4	clozapine	510	NA
-DRD2	clozapine	190	NA
-DRD2	olanzapine	31	NA
-DRD3	clozapine	280	NA
-DRD3	olanzapine	49	NA
-DRD2	clozapine	60	NA
-DRD3	clozapine	83	NA
-HTR6	clozapine	9.5	NA
-HTR6	olanzapine	10	NA
-DRD2	clozapine	81.9	NA
-DRD4	clozapine	28.9	NA
-DRD5	clozapine	250	NA
-DRD1	clozapine	141	NA
-CHRM3	clozapine	20	NA
-CHRM4	clozapine	11	NA
-CHRM5	clozapine	11.2	NA
-CHRM1	clozapine	3.1	NA
-CHRM2	clozapine	48	NA
-DRD3	clozapine	708	NA
-DRD3	clozapine	562	NA
-DRD3	clozapine	245.47	NA
-DRD2	clozapine	210	NA
-DRD2	olanzapine	20	NA
-HRH1	clozapine	3.1	NA
-HRH1	olanzapine	0.087	NA
-HTR1A	clozapine	160	NA
-HTR1A	olanzapine	610	NA
-HTR1D	clozapine	130	NA
-HTR1D	olanzapine	150	NA
-HTR2A	clozapine	2.59	NA
-HTR2A	olanzapine	1.48	NA
-HTR2C	clozapine	4.8	NA
-HTR2C	olanzapine	4.1	NA
-HRH1	clozapine	1.54	NA
-HRH1	clozapine	1.63	NA
-DRD2	clozapine	44	NA
-DRD2	isoclozapine	6	NA
-DRD2	olanzapine	3	NA
-DRD3	clozapine	150	NA
-DRD3	isoclozapine	11.5	NA
-DRD3	olanzapine	7.8	NA
-HTR2A	olanzapine	3	NA
-HTR2A	isoclozapine	1.8	NA
-HTR2A	clozapine	3.5	NA
-DRD4	olanzapine	1.6	NA
-DRD4	isoclozapine	5.8	NA
-DRD4	clozapine	1.6	NA
-DRD2	olanzapine	31.8	NA
-HTR2A	olanzapine	2.65	NA
-DRD2	clozapine	44	NA
-DRD2	olanzapine	3	NA
-DRD2	clozapine	82	NA
-DRD2	olanzapine	6.4	NA
-DRD2	clozapine	180	NA
-DRD2	olanzapine	21	NA
-DRD2	clozapine	385	NA
-DRD2	olanzapine	45	NA
-DRD3	clozapine	150	NA
-DRD3	olanzapine	7.8	NA
-DRD3	clozapine	190	NA
-DRD3	olanzapine	14	NA
-DRD3	clozapine	270	NA
-DRD3	olanzapine	23	NA
-DRD3	clozapine	340	NA
-DRD3	olanzapine	40	NA
-DRD4	clozapine	1.6	NA
-DRD4	olanzapine	1.6	NA
-DRD4	clozapine	22	NA
-DRD4	olanzapine	14	NA
-DRD4	clozapine	40	NA
-DRD4	olanzapine	30	NA
-HTR2A	clozapine	3.5	NA
-HTR2A	olanzapine	3	NA
-HTR2A	clozapine	4	NA
-HTR2A	olanzapine	3.4	NA
-HTR2A	clozapine	5.2	NA
-HTR2A	olanzapine	4.9	NA
-CHRM3	clozapine	25	NA
-HRH4	clozapine	820	NA
-PTGER3	clozapine	10000	NA
-DRD2	clozapine	431	NA
-HTR1A	clozapine	105	NA
-ADRA2C	clozapine	34	NA
-HTR1D	clozapine	2132	NA
-ADRA1B	clozapine	7	NA
-HTR5A	clozapine	3857	NA
-DRD4	clozapine	39	NA
-HTR1B	clozapine	398	NA
-CHRM1	clozapine	14	NA
-ADRA1A	clozapine	1.6	NA
-DRD5	clozapine	235	NA
-HTR6	clozapine	17	NA
-CHRM5	clozapine	94	NA
-SLC6A3	clozapine	10000	NA
-ADRA2A	clozapine	142	NA
-ADRA2B	clozapine	27	NA
-DRD1	clozapine	189	NA
-HTR7	clozapine	18	NA
-CHRM2	clozapine	14	NA
-ADRB1	clozapine	10000	NA
-HRH2	clozapine	153	NA
-PTGER4	clozapine	10000	NA
-SLC6A4	clozapine	1624	NA
-HRH1	clozapine	2	NA
-HTR1E	clozapine	966	NA
-CHRM4	clozapine	29	NA
-ADRB2	clozapine	10000	NA
-HTR3A	clozapine	241	NA
-CHRM4	olanzapine	998	NA
-CHRM5	olanzapine	9	NA
-CHRM1	olanzapine	24	NA
-CHRM2	olanzapine	79	NA
-CHRM3	olanzapine	51	NA
-HTR3A	olanzapine	202	NA
-HTR1E	olanzapine	2408	NA
-HTR7	olanzapine	105	NA
-SLC6A3	olanzapine	10000	NA
-HTR6	olanzapine	6	NA
-HTR1B	olanzapine	509	NA
-HTR5A	olanzapine	1212	NA
-DRD4	olanzapine	19	NA
-HTR1D	olanzapine	1582	NA
-HRH1	olanzapine	4.9	NA
-HRH2	olanzapine	44	NA
-HRH4	olanzapine	10000	NA
-ADRA2B	olanzapine	82	NA
-ADRB2	olanzapine	10000	NA
-ADRB1	olanzapine	10000	NA
-ADRA2C	olanzapine	29	NA
-DRD5	olanzapine	90	NA
-PTGER4	olanzapine	10000	NA
-ADRA1A	olanzapine	109	NA
-PTGER3	olanzapine	10000	NA
-DRD1	olanzapine	58	NA
-DRD2	olanzapine	72	NA
-ADRA2A	olanzapine	314	NA
-HTR1A	olanzapine	2063	NA
-ADRA1B	olanzapine	263	NA
-SLC6A4	olanzapine	3676	NA
-HTR6	clozapine	14.454397707459	NA
-HTR2C	clozapine	17	NA
-HTR2C	olanzapine	6.8	NA
-HTR2A	clozapine	5.4	NA
-HTR2A	olanzapine	2	NA
-DRD2	clozapine	256	NA
-DRD2	olanzapine	34	NA
-HRH1	clozapine	1.2	NA
-HRH1	olanzapine	2	NA
-CHRM3	clozapine	25	NA
-CHRM3	olanzapine	105	NA
-ADRA1A	clozapine	1.64	NA
-ADRA1A	olanzapine	115	NA
-ADRA2A	clozapine	142	NA
-ADRA2A	olanzapine	314.1	NA
-ADRA2B	clozapine	26	NA
-ADRA2B	olanzapine	81.6	NA
-ADRA2C	clozapine	34	NA
-ADRA2C	olanzapine	28.8	NA
-HTR1A	clozapine	104.8	NA
-HTR1A	olanzapine	2063	NA
-HTR6	clozapine	17	NA
-HTR6	olanzapine	6.28	NA
-HTR7	clozapine	17.9	NA
-HTR7	olanzapine	105.4	NA
-DRD2	clozapine	260	NA
-DRD3	clozapine	450	NA
-DRD2	isoclozapine	34	NA
-DRD3	isoclozapine	120	NA
-HTR2A	clozapine	1	NA
-HTR2C	clozapine	1.8	NA
-DRD2	clozapine	49.9	NA
-DRD4	olanzapine	27	NA
-DRD4	clozapine	21	NA
-HTR2C	olanzapine	11	NA
-HTR2C	clozapine	8	NA
-CHRM1	olanzapine	2.5	NA
-CHRM1	clozapine	1.4	NA
-CHRM3	olanzapine	13	NA
-CHRM3	clozapine	7	NA
-CHRM4	olanzapine	10	NA
-CHRM4	clozapine	6	NA
-CHRM5	olanzapine	6	NA
-CHRM5	clozapine	5	NA
-DRD1	olanzapine	25	NA
-DRD2	olanzapine	10	NA
-HTR2A	olanzapine	7	NA
-HTR2C	olanzapine	71	NA
-CHRM1	olanzapine	2	NA
-ADRB2	olanzapine	10000	NA
-HTR2A	olanzapine	2.5	NA
-HTR2B	olanzapine	12	NA
-HTR2C	olanzapine	29	NA
-CHRM1	olanzapine	2.5	NA
-CHRM3	olanzapine	13	NA
-CHRM4	olanzapine	10	NA
-CHRM5	olanzapine	6	NA
-CHRM1	olanzapine	73	NA
-CHRM2	olanzapine	96	NA
-CHRM3	olanzapine	132	NA
-CHRM4	olanzapine	32	NA
-CHRM5	olanzapine	48	NA
-CHRM1	clozapine	31	NA
-CHRM2	clozapine	204	NA
-CHRM3	clozapine	109	NA
-CHRM4	clozapine	27	NA
-CHRM5	clozapine	26	NA
-CHRM1	clozapine	1.4	NA
-CHRM2	clozapine	48	NA
-CHRM3	clozapine	7	NA
-CHRM4	clozapine	6	NA
-CHRM5	clozapine	5	NA
-CHRM1	olanzapine	2.5	NA
-CHRM2	olanzapine	48	NA
-CHRM3	olanzapine	13	NA
-CHRM4	olanzapine	10	NA
-CHRM5	olanzapine	6	NA
-CHRM1	olanzapine	73	NA
-CHRM2	olanzapine	96	NA
-CHRM3	olanzapine	132	NA
-CHRM4	olanzapine	32	NA
-CHRM5	olanzapine	48	NA
-CHRM1	clozapine	31	NA
-CHRM2	clozapine	204	NA
-CHRM3	clozapine	109	NA
-CHRM4	clozapine	27	NA
-CHRM5	clozapine	26	NA
-CHRM1	olanzapine	70	NA
-CHRM2	olanzapine	622	NA
-CHRM3	olanzapine	126	NA
-CHRM4	olanzapine	350	NA
-CHRM5	olanzapine	82	NA
-HTR2C	olanzapine	15	NA
-HTR6	olanzapine	42	NA
-HTR7	clozapine	63.095734448019	NA
-HTR7	olanzapine	316.22776601684	NA
-DRD2	clozapine	138	NA
-HTR2A	clozapine	7.8	NA
-DRD2	clozapine	260	NA
-DRD2	clozapine	220	NA
-DRD4	clozapine	21	NA
-DRD1	clozapine	539	NA
-DRD1	olanzapine	118	NA
-DRD2	clozapine	144	NA
-DRD2	olanzapine	78	NA
-DRD3	clozapine	242	NA
-DRD3	olanzapine	43	NA
-HTR2A	clozapine	6.3	NA
-HTR2A	olanzapine	2.3	NA
-HTR7	clozapine	48	NA
-HTR7	olanzapine	365	NA
-HTR2C	clozapine	21	NA
-HTR2C	olanzapine	14	NA
-HRH1	clozapine	1.1	NA
-HRH1	olanzapine	1.2	NA
-ADRA2A	clozapine	24	NA
-ADRA2A	olanzapine	192	NA
-ADRA2C	clozapine	2.9	NA
-ADRA2C	olanzapine	82	NA
-HTR2A	clozapine	16	NA
-HTR1A	clozapine	145	NA
-HTR1B	clozapine	648	NA
-DRD2	clozapine	189	NA
-DRD2	clozapine	159	NA
-DRD4	clozapine	9	NA
-SLC6A4	clozapine	1000	NA
-SLC6A4	olanzapine	1000	NA
-TBXA2R	clozapine	1000	NA
-TBXA2R	olanzapine	1000	NA
-DRD4	clozapine	30	NA
-DRD2	clozapine	71	NA
-DRD2	clozapine	72	NA
-DRD2	olanzapine	106	NA
-DRD3	clozapine	27	NA
-DRD3	clozapine	79	NA
-DRD3	olanzapine	91	NA
-DRD4	clozapine	7.6	NA
-DRD4	olanzapine	31	NA
-HTR2A	clozapine	25.118864315096	NA
-HTR2B	clozapine	10.232929922808	NA
-HTR2C	clozapine	13.489628825917	NA
-HTR6	olanzapine	10	NA
-HTR6	clozapine	11	NA
-CHRM1	clozapine	1.79999995231628	NA
-CHRM1	olanzapine	4.69999980926514	NA
-DRD1	olanzapine	52	NA
-DRD1	clozapine	290	NA
-DRD2	clozapine	130	NA
-DRD2	olanzapine	20	NA
-DRD3	olanzapine	45	NA
-DRD3	clozapine	240	NA
-DRD4	clozapine	54	NA
-DRD4	olanzapine	50	NA
-HTR2C	clozapine	17	NA
-HTR2C	olanzapine	10	NA
-HRH1	olanzapine	2.79999995231628	NA
-HRH1	clozapine	1.79999995231628	NA
-HTR1A	clozapine	140	NA
-HTR1A	olanzapine	2100	NA
-HTR2A	clozapine	8.89999961853027	NA
-HTR2A	olanzapine	3.29999995231628	NA
-SLC6A4	olanzapine	10000	NA
-SLC6A4	clozapine	3900	NA
-HRH3	clozapine	1000	NA
-HRH1	clozapine	2.38000011444092	NA
-DRD1	clozapine	89	NA
-DRD5	clozapine	198	NA
-DRD2	clozapine	83	NA
-DRD3	clozapine	295	NA
-DRD2	clozapine	41	NA
-DRD2	clozapine	28	NA
-DRD3	clozapine	960	NA
-DRD2	olanzapine	32	NA
-DRD2	olanzapine	6.09999990463257	NA
-HTR2A	clozapine	5.4	NA
-HTR2C	clozapine	9.4	NA
-ADRA1A	clozapine	1.6	NA
-HRH1	clozapine	1.1	NA
-HRH1	clozapine	1.8	NA
-ADRA2C	clozapine	34	NA
-ADRA2B	clozapine	27	NA
-ADRA2A	clozapine	142	NA
-ADRA1B	clozapine	7	NA
-ADRA1A	clozapine	1.6	NA
-HTR2C	clozapine	17	NA
-HTR2A	clozapine	8.9	NA
-HTR1A	clozapine	140	NA
-DRD3	clozapine	240	NA
-DRD2	clozapine	130	NA
-HTR2A	clozapine	5.7543993733716	NA
-HTR2A	olanzapine	1.3182567385564	NA
-HTR2A	clozapine	15	NA
-DRD1	olanzapine	52.480746024977	NA
-DRD2	olanzapine	20.417379446695	NA
-DRD3	olanzapine	44.668359215096	NA
-DRD4	olanzapine	60.255958607436	NA
-HTR1A	olanzapine	2041.7379446695	NA
-HTR2A	olanzapine	3.2359365692963	NA
-HTR2C	olanzapine	10.232929922808	NA
-HTR6	olanzapine	10.232929922808	NA
-HTR7	olanzapine	245.4708915685	NA
-HRH1	olanzapine	2.7542287033382	NA
-DRD1	clozapine	288.40315031266	NA
-DRD2	clozapine	134.89628825917	NA
-DRD3	clozapine	239.88329190195	NA
-DRD4	clozapine	53.703179637025	NA
-HTR1A	clozapine	141.25375446228	NA
-HTR2A	clozapine	8.9125093813374	NA
-HTR2C	clozapine	17.378008287494	NA
-HTR6	clozapine	10.471285480509	NA
-HTR7	clozapine	66.06934480076	NA
-HRH1	clozapine	1.81970085861	NA
-HTR1A	clozapine	257.03957827689	NA
-HTR1A	olanzapine	1737.8008287494	NA
-HTR2A	clozapine	6.0255958607436	NA
-HTR2A	olanzapine	4.4668359215096	NA
-HTR3A	clozapine	81.28305161641	NA
-HTR3A	olanzapine	70.794578438414	NA
-HTR6	clozapine	10	NA
-HTR7	clozapine	77.624711662869	NA
-HTR7	olanzapine	208.9296130854	NA
-CHRM1	clozapine	6.0255958607436	NA
-CHRM1	olanzapine	7.0794578438414	NA
-CHRM2	clozapine	83.176377110267	NA
-CHRM2	olanzapine	47.863009232264	NA
-HTR2A	olanzapine	5.78	NA
-HTR1A	clozapine	123	NA
-HTR2A	clozapine	9.17	NA
-HTR7	clozapine	42.2	NA
-HRH1	clozapine	1.9	NA
-HTR1A	clozapine	140	NA
-HTR2A	clozapine	8.9	NA
-HTR2C	clozapine	17	NA
-HTR6	clozapine	11	NA
-HTR7	clozapine	66	NA
-CHRM1	clozapine	1.8	NA
-HTR1A	olanzapine	2100	NA
-HTR2A	olanzapine	3.3	NA
-HTR2C	olanzapine	10	NA
-HTR6	olanzapine	10	NA
-HTR7	olanzapine	250	NA
-CHRM1	olanzapine	4.7	NA
-ADRA2A	clozapine	79.432823472428	NA
-HTR1A	clozapine	143	NA
-HTR2A	clozapine	13	NA
-HTR6	clozapine	4	NA
-HTR7	clozapine	10000	NA
-HTR1A	olanzapine	3442	NA
-HTR2A	olanzapine	4	NA
-HTR6	olanzapine	7	NA
-HTR7	olanzapine	206	NA
-HTR5A	clozapine	1000	NA
-HTR6	clozapine	9.5	NA
-HTR7	clozapine	40	NA
-CHRM1	clozapine	9.4	NA
-CHRM1	isoclozapine	6	NA
-HRH1	clozapine	199.52623149689	NA
-HRH4	clozapine	199.52623149689	NA
-HRH4	clozapine	398.1071705535	NA
-HRH4	clozapine	316.22776601684	NA
-DRD1	clozapine	189	NA
-DRD1	olanzapine	58	NA
-DRD2	clozapine	187	NA
-DRD2	olanzapine	31	NA
-HTR2A	clozapine	4	NA
-HTR2A	olanzapine	3.4	NA
-HTR1A	clozapine	105	NA
-HTR1A	olanzapine	2063	NA
-HRH1	clozapine	0.23	NA
-HRH1	olanzapine	0.65	NA
-HTR1A	clozapine	140	NA
-HTR2A	clozapine	80.9	NA
-HTR7	clozapine	66	NA
-HTR2C	clozapine	17	NA
-CHRM1	clozapine	1.8	NA
-HTR1A	clozapine	140	NA
-HTR2A	clozapine	8.9	NA
-HTR2C	clozapine	17	NA
-CHRM1	clozapine	1.8	NA
-HTR7	clozapine	18	NA
-HTR7	olanzapine	185	NA
-HTR1A	clozapine	143	NA
-HTR1A	olanzapine	3442	NA
-HTR6	clozapine	4	NA
-HTR6	olanzapine	5	NA
-HTR6	olanzapine	7	NA
-HTR2A	olanzapine	4.6	NA
-HTR6	olanzapine	7	NA
-HTR7	clozapine	18	NA
-HTR6	olanzapine	7	NA
-HTR7	clozapine	18	NA
-HTR2A	clozapine	13.489628825917	NA
-HTR2A	clozapine	0.54954087385762	NA
-HTR2C	clozapine	1.3182567385564	NA
-HTR2C	clozapine	691.83097091894	NA
-HTR2A	clozapine	1.3182567385564	NA
-HTR2A	clozapine	5.8884365535559	NA
-HTR1A	clozapine	104	NA
-HTR1A	olanzapine	1114	NA
-HTR1B	clozapine	2111	NA
-HTR1B	olanzapine	3157	NA
-HTR1D	clozapine	474	NA
-HTR1D	olanzapine	1062	NA
-HTR1E	clozapine	10000	NA
-HTR2A	olanzapine	9.2	NA
-HTR2A	clozapine	13	NA
-HTR2B	clozapine	4	NA
-HTR2B	olanzapine	7.2	NA
-HTR2C	olanzapine	16	NA
-HTR2C	clozapine	19	NA
-HTR3A	clozapine	47	NA
-HTR3A	olanzapine	125	NA
-HTR5A	olanzapine	1365	NA
-HTR6	olanzapine	13	NA
-HTR6	clozapine	14	NA
-HTR7	clozapine	21	NA
-HTR7	olanzapine	157	NA
+receptor	drug	ki_nm	target_action	dosage_adjustment
+HTR2A	clozapine	1.6	NA	10
+DRD1	clozapine	196	NA	10
+DRD1	olanzapine	35	NA	1
+DRD2	clozapine	168	NA	10
+DRD2	olanzapine	30.3	NA	1
+DRD2	clozapine	291	NA	10
+DRD2	olanzapine	37.7	NA	1
+DRD3	clozapine	473	NA	10
+DRD3	olanzapine	49	NA	1
+DRD4	olanzapine	29.5	NA	1
+DRD4	clozapine	54.5	NA	10
+DRD5	clozapine	281	NA	10
+DRD5	olanzapine	74	NA	1
+HTR2A	clozapine	23.2	NA	10
+HTR2A	olanzapine	24.2	NA	1
+HTR2C	clozapine	10.7	NA	10
+HTR2C	olanzapine	6.4	NA	1
+HTR6	clozapine	9.5	NA	10
+HTR6	olanzapine	10	NA	1
+HTR2B	clozapine	7.15	NA	10
+HTR2B	clozapine	3.43	NA	10
+HTR2B	clozapine	8.51	NA	10
+HTR2C	clozapine	4.26	NA	10
+HTR2B	clozapine	7.57	NA	10
+HTR2B	olanzapine	11.8	NA	1
+HTR2A	clozapine	6.51	NA	10
+HTR2A	olanzapine	2.53	NA	1
+HTR2C	clozapine	36	NA	10
+HTR2C	olanzapine	28.6	NA	1
+DRD2	clozapine	420	NA	10
+DRD2	clozapine	187	NA	10
+DRD2	olanzapine	52	NA	1
+DRD2	clozapine	180	NA	10
+DRD2	clozapine	137	NA	10
+DRD2	olanzapine	35	NA	1
+DRD2	clozapine	82	NA	10
+DRD2	clozapine	59	NA	10
+DRD2	clozapine	44	NA	10
+DRD2	isoclozapine	5.8	NA	NA
+DRD2	olanzapine	3.7	NA	1
+DRD4	clozapine	1.6	NA	10
+DRD4	isoclozapine	5.8	NA	NA
+DRD4	olanzapine	2	NA	1
+HTR2A	clozapine	11	NA	10
+HTR2A	isoclozapine	1.45	NA	NA
+HTR2A	olanzapine	5.8	NA	1
+DRD2	clozapine	38	NA	10
+DRD3	clozapine	88	NA	10
+DRD4	clozapine	41.7	NA	10
+DRD4	clozapine	34.7	NA	10
+HRH3	clozapine	10000	NA	10
+HTR1A	clozapine	140	NA	10
+HTR1A	olanzapine	2720	NA	1
+HTR1B	clozapine	390	NA	10
+HTR1B	olanzapine	660	NA	1
+HTR1D	clozapine	580	NA	10
+HTR1D	olanzapine	540	NA	1
+HTR1E	clozapine	430	NA	10
+HTR1E	olanzapine	2010	NA	1
+HTR1F	clozapine	130	NA	10
+HTR1F	olanzapine	310	NA	1
+HTR2A	clozapine	9.6	NA	10
+HTR2A	olanzapine	2.5	NA	1
+DRD2	clozapine	190	NA	10
+DRD2	olanzapine	31	NA	1
+DRD2	clozapine	150	NA	10
+DRD2	olanzapine	21	NA	1
+DRD3	clozapine	280	NA	10
+DRD3	olanzapine	49	NA	1
+ADRA2A	clozapine	50	NA	10
+ADRA2A	olanzapine	470	NA	1
+ADRA2B	clozapine	22	NA	10
+ADRA2B	olanzapine	180	NA	1
+ADRA2C	clozapine	9.1	NA	10
+ADRA2C	olanzapine	210	NA	1
+ADRB1	clozapine	5000	NA	10
+ADRB1	olanzapine	5000	NA	1
+ADRB2	clozapine	1650	NA	10
+ADRB2	olanzapine	5000	NA	1
+HRH1	clozapine	0.23	NA	10
+HRH1	olanzapine	0.65	NA	1
+DRD2	clozapine	69	NA	10
+DRD3	clozapine	479	NA	10
+DRD2	clozapine	180	NA	10
+HRH1	clozapine	2.8	NA	10
+HRH1	clozapine	1.2	NA	10
+DRD2	clozapine	178.57	NA	10
+HRH1	clozapine	2.77	NA	10
+DRD2	clozapine	130	NA	10
+DRD2	clozapine	143	NA	10
+DRD2	clozapine	176	NA	10
+DRD2	clozapine	149	NA	10
+DRD2	clozapine	330	NA	10
+HRH3	clozapine	10000	NA	10
+HRH3	clozapine	10000	NA	10
+HRH4	clozapine	849.6	NA	10
+HRH4	clozapine	510	NA	10
+DRD2	clozapine	190	NA	10
+DRD2	olanzapine	31	NA	1
+DRD3	clozapine	280	NA	10
+DRD3	olanzapine	49	NA	1
+DRD2	clozapine	60	NA	10
+DRD3	clozapine	83	NA	10
+HTR6	clozapine	9.5	NA	10
+HTR6	olanzapine	10	NA	1
+DRD2	clozapine	81.9	NA	10
+DRD4	clozapine	28.9	NA	10
+DRD5	clozapine	250	NA	10
+DRD1	clozapine	141	NA	10
+CHRM3	clozapine	20	NA	10
+CHRM4	clozapine	11	NA	10
+CHRM5	clozapine	11.2	NA	10
+CHRM1	clozapine	3.1	NA	10
+CHRM2	clozapine	48	NA	10
+DRD3	clozapine	708	NA	10
+DRD3	clozapine	562	NA	10
+DRD3	clozapine	245.47	NA	10
+DRD2	clozapine	210	NA	10
+DRD2	olanzapine	20	NA	1
+HRH1	clozapine	3.1	NA	10
+HRH1	olanzapine	0.087	NA	1
+HTR1A	clozapine	160	NA	10
+HTR1A	olanzapine	610	NA	1
+HTR1D	clozapine	130	NA	10
+HTR1D	olanzapine	150	NA	1
+HTR2A	clozapine	2.59	NA	10
+HTR2A	olanzapine	1.48	NA	1
+HTR2C	clozapine	4.8	NA	10
+HTR2C	olanzapine	4.1	NA	1
+HRH1	clozapine	1.54	NA	10
+HRH1	clozapine	1.63	NA	10
+DRD2	clozapine	44	NA	10
+DRD2	isoclozapine	6	NA	NA
+DRD2	olanzapine	3	NA	1
+DRD3	clozapine	150	NA	10
+DRD3	isoclozapine	11.5	NA	NA
+DRD3	olanzapine	7.8	NA	1
+HTR2A	olanzapine	3	NA	1
+HTR2A	isoclozapine	1.8	NA	NA
+HTR2A	clozapine	3.5	NA	10
+DRD4	olanzapine	1.6	NA	1
+DRD4	isoclozapine	5.8	NA	NA
+DRD4	clozapine	1.6	NA	10
+DRD2	olanzapine	31.8	NA	1
+HTR2A	olanzapine	2.65	NA	1
+DRD2	clozapine	44	NA	10
+DRD2	olanzapine	3	NA	1
+DRD2	clozapine	82	NA	10
+DRD2	olanzapine	6.4	NA	1
+DRD2	clozapine	180	NA	10
+DRD2	olanzapine	21	NA	1
+DRD2	clozapine	385	NA	10
+DRD2	olanzapine	45	NA	1
+DRD3	clozapine	150	NA	10
+DRD3	olanzapine	7.8	NA	1
+DRD3	clozapine	190	NA	10
+DRD3	olanzapine	14	NA	1
+DRD3	clozapine	270	NA	10
+DRD3	olanzapine	23	NA	1
+DRD3	clozapine	340	NA	10
+DRD3	olanzapine	40	NA	1
+DRD4	clozapine	1.6	NA	10
+DRD4	olanzapine	1.6	NA	1
+DRD4	clozapine	22	NA	10
+DRD4	olanzapine	14	NA	1
+DRD4	clozapine	40	NA	10
+DRD4	olanzapine	30	NA	1
+HTR2A	clozapine	3.5	NA	10
+HTR2A	olanzapine	3	NA	1
+HTR2A	clozapine	4	NA	10
+HTR2A	olanzapine	3.4	NA	1
+HTR2A	clozapine	5.2	NA	10
+HTR2A	olanzapine	4.9	NA	1
+CHRM3	clozapine	25	NA	10
+HRH4	clozapine	820	NA	10
+PTGER3	clozapine	10000	NA	10
+DRD2	clozapine	431	NA	10
+HTR1A	clozapine	105	NA	10
+ADRA2C	clozapine	34	NA	10
+HTR1D	clozapine	2132	NA	10
+ADRA1B	clozapine	7	NA	10
+HTR5A	clozapine	3857	NA	10
+DRD4	clozapine	39	NA	10
+HTR1B	clozapine	398	NA	10
+CHRM1	clozapine	14	NA	10
+ADRA1A	clozapine	1.6	NA	10
+DRD5	clozapine	235	NA	10
+HTR6	clozapine	17	NA	10
+CHRM5	clozapine	94	NA	10
+SLC6A3	clozapine	10000	NA	10
+ADRA2A	clozapine	142	NA	10
+ADRA2B	clozapine	27	NA	10
+DRD1	clozapine	189	NA	10
+HTR7	clozapine	18	NA	10
+CHRM2	clozapine	14	NA	10
+ADRB1	clozapine	10000	NA	10
+HRH2	clozapine	153	NA	10
+PTGER4	clozapine	10000	NA	10
+SLC6A4	clozapine	1624	NA	10
+HRH1	clozapine	2	NA	10
+HTR1E	clozapine	966	NA	10
+CHRM4	clozapine	29	NA	10
+ADRB2	clozapine	10000	NA	10
+HTR3A	clozapine	241	NA	10
+CHRM4	olanzapine	998	NA	1
+CHRM5	olanzapine	9	NA	1
+CHRM1	olanzapine	24	NA	1
+CHRM2	olanzapine	79	NA	1
+CHRM3	olanzapine	51	NA	1
+HTR3A	olanzapine	202	NA	1
+HTR1E	olanzapine	2408	NA	1
+HTR7	olanzapine	105	NA	1
+SLC6A3	olanzapine	10000	NA	1
+HTR6	olanzapine	6	NA	1
+HTR1B	olanzapine	509	NA	1
+HTR5A	olanzapine	1212	NA	1
+DRD4	olanzapine	19	NA	1
+HTR1D	olanzapine	1582	NA	1
+HRH1	olanzapine	4.9	NA	1
+HRH2	olanzapine	44	NA	1
+HRH4	olanzapine	10000	NA	1
+ADRA2B	olanzapine	82	NA	1
+ADRB2	olanzapine	10000	NA	1
+ADRB1	olanzapine	10000	NA	1
+ADRA2C	olanzapine	29	NA	1
+DRD5	olanzapine	90	NA	1
+PTGER4	olanzapine	10000	NA	1
+ADRA1A	olanzapine	109	NA	1
+PTGER3	olanzapine	10000	NA	1
+DRD1	olanzapine	58	NA	1
+DRD2	olanzapine	72	NA	1
+ADRA2A	olanzapine	314	NA	1
+HTR1A	olanzapine	2063	NA	1
+ADRA1B	olanzapine	263	NA	1
+SLC6A4	olanzapine	3676	NA	1
+HTR6	clozapine	14.454397707459	NA	10
+HTR2C	clozapine	17	NA	10
+HTR2C	olanzapine	6.8	NA	1
+HTR2A	clozapine	5.4	NA	10
+HTR2A	olanzapine	2	NA	1
+DRD2	clozapine	256	NA	10
+DRD2	olanzapine	34	NA	1
+HRH1	clozapine	1.2	NA	10
+HRH1	olanzapine	2	NA	1
+CHRM3	clozapine	25	NA	10
+CHRM3	olanzapine	105	NA	1
+ADRA1A	clozapine	1.64	NA	10
+ADRA1A	olanzapine	115	NA	1
+ADRA2A	clozapine	142	NA	10
+ADRA2A	olanzapine	314.1	NA	1
+ADRA2B	clozapine	26	NA	10
+ADRA2B	olanzapine	81.6	NA	1
+ADRA2C	clozapine	34	NA	10
+ADRA2C	olanzapine	28.8	NA	1
+HTR1A	clozapine	104.8	NA	10
+HTR1A	olanzapine	2063	NA	1
+HTR6	clozapine	17	NA	10
+HTR6	olanzapine	6.28	NA	1
+HTR7	clozapine	17.9	NA	10
+HTR7	olanzapine	105.4	NA	1
+DRD2	clozapine	260	NA	10
+DRD3	clozapine	450	NA	10
+DRD2	isoclozapine	34	NA	NA
+DRD3	isoclozapine	120	NA	NA
+HTR2A	clozapine	1	NA	10
+HTR2C	clozapine	1.8	NA	10
+DRD2	clozapine	49.9	NA	10
+DRD4	olanzapine	27	NA	1
+DRD4	clozapine	21	NA	10
+HTR2C	olanzapine	11	NA	1
+HTR2C	clozapine	8	NA	10
+CHRM1	olanzapine	2.5	NA	1
+CHRM1	clozapine	1.4	NA	10
+CHRM3	olanzapine	13	NA	1
+CHRM3	clozapine	7	NA	10
+CHRM4	olanzapine	10	NA	1
+CHRM4	clozapine	6	NA	10
+CHRM5	olanzapine	6	NA	1
+CHRM5	clozapine	5	NA	10
+DRD1	olanzapine	25	NA	1
+DRD2	olanzapine	10	NA	1
+HTR2A	olanzapine	7	NA	1
+HTR2C	olanzapine	71	NA	1
+CHRM1	olanzapine	2	NA	1
+ADRB2	olanzapine	10000	NA	1
+HTR2A	olanzapine	2.5	NA	1
+HTR2B	olanzapine	12	NA	1
+HTR2C	olanzapine	29	NA	1
+CHRM1	olanzapine	2.5	NA	1
+CHRM3	olanzapine	13	NA	1
+CHRM4	olanzapine	10	NA	1
+CHRM5	olanzapine	6	NA	1
+CHRM1	olanzapine	73	NA	1
+CHRM2	olanzapine	96	NA	1
+CHRM3	olanzapine	132	NA	1
+CHRM4	olanzapine	32	NA	1
+CHRM5	olanzapine	48	NA	1
+CHRM1	clozapine	31	NA	10
+CHRM2	clozapine	204	NA	10
+CHRM3	clozapine	109	NA	10
+CHRM4	clozapine	27	NA	10
+CHRM5	clozapine	26	NA	10
+CHRM1	clozapine	1.4	NA	10
+CHRM2	clozapine	48	NA	10
+CHRM3	clozapine	7	NA	10
+CHRM4	clozapine	6	NA	10
+CHRM5	clozapine	5	NA	10
+CHRM1	olanzapine	2.5	NA	1
+CHRM2	olanzapine	48	NA	1
+CHRM3	olanzapine	13	NA	1
+CHRM4	olanzapine	10	NA	1
+CHRM5	olanzapine	6	NA	1
+CHRM1	olanzapine	73	NA	1
+CHRM2	olanzapine	96	NA	1
+CHRM3	olanzapine	132	NA	1
+CHRM4	olanzapine	32	NA	1
+CHRM5	olanzapine	48	NA	1
+CHRM1	clozapine	31	NA	10
+CHRM2	clozapine	204	NA	10
+CHRM3	clozapine	109	NA	10
+CHRM4	clozapine	27	NA	10
+CHRM5	clozapine	26	NA	10
+CHRM1	olanzapine	70	NA	1
+CHRM2	olanzapine	622	NA	1
+CHRM3	olanzapine	126	NA	1
+CHRM4	olanzapine	350	NA	1
+CHRM5	olanzapine	82	NA	1
+HTR2C	olanzapine	15	NA	1
+HTR6	olanzapine	42	NA	1
+HTR7	clozapine	63.095734448019	NA	10
+HTR7	olanzapine	316.22776601684	NA	1
+DRD2	clozapine	138	NA	10
+HTR2A	clozapine	7.8	NA	10
+DRD2	clozapine	260	NA	10
+DRD2	clozapine	220	NA	10
+DRD4	clozapine	21	NA	10
+DRD1	clozapine	539	NA	10
+DRD1	olanzapine	118	NA	1
+DRD2	clozapine	144	NA	10
+DRD2	olanzapine	78	NA	1
+DRD3	clozapine	242	NA	10
+DRD3	olanzapine	43	NA	1
+HTR2A	clozapine	6.3	NA	10
+HTR2A	olanzapine	2.3	NA	1
+HTR7	clozapine	48	NA	10
+HTR7	olanzapine	365	NA	1
+HTR2C	clozapine	21	NA	10
+HTR2C	olanzapine	14	NA	1
+HRH1	clozapine	1.1	NA	10
+HRH1	olanzapine	1.2	NA	1
+ADRA2A	clozapine	24	NA	10
+ADRA2A	olanzapine	192	NA	1
+ADRA2C	clozapine	2.9	NA	10
+ADRA2C	olanzapine	82	NA	1
+HTR2A	clozapine	16	NA	10
+HTR1A	clozapine	145	NA	10
+HTR1B	clozapine	648	NA	10
+DRD2	clozapine	189	NA	10
+DRD2	clozapine	159	NA	10
+DRD4	clozapine	9	NA	10
+SLC6A4	clozapine	1000	NA	10
+SLC6A4	olanzapine	1000	NA	1
+TBXA2R	clozapine	1000	NA	10
+TBXA2R	olanzapine	1000	NA	1
+DRD4	clozapine	30	NA	10
+DRD2	clozapine	71	NA	10
+DRD2	clozapine	72	NA	10
+DRD2	olanzapine	106	NA	1
+DRD3	clozapine	27	NA	10
+DRD3	clozapine	79	NA	10
+DRD3	olanzapine	91	NA	1
+DRD4	clozapine	7.6	NA	10
+DRD4	olanzapine	31	NA	1
+HTR2A	clozapine	25.118864315096	NA	10
+HTR2B	clozapine	10.232929922808	NA	10
+HTR2C	clozapine	13.489628825917	NA	10
+HTR6	olanzapine	10	NA	1
+HTR6	clozapine	11	NA	10
+CHRM1	clozapine	1.79999995231628	NA	10
+CHRM1	olanzapine	4.69999980926514	NA	1
+DRD1	olanzapine	52	NA	1
+DRD1	clozapine	290	NA	10
+DRD2	clozapine	130	NA	10
+DRD2	olanzapine	20	NA	1
+DRD3	olanzapine	45	NA	1
+DRD3	clozapine	240	NA	10
+DRD4	clozapine	54	NA	10
+DRD4	olanzapine	50	NA	1
+HTR2C	clozapine	17	NA	10
+HTR2C	olanzapine	10	NA	1
+HRH1	olanzapine	2.79999995231628	NA	1
+HRH1	clozapine	1.79999995231628	NA	10
+HTR1A	clozapine	140	NA	10
+HTR1A	olanzapine	2100	NA	1
+HTR2A	clozapine	8.89999961853027	NA	10
+HTR2A	olanzapine	3.29999995231628	NA	1
+SLC6A4	olanzapine	10000	NA	1
+SLC6A4	clozapine	3900	NA	10
+HRH3	clozapine	1000	NA	10
+HRH1	clozapine	2.38000011444092	NA	10
+DRD1	clozapine	89	NA	10
+DRD5	clozapine	198	NA	10
+DRD2	clozapine	83	NA	10
+DRD3	clozapine	295	NA	10
+DRD2	clozapine	41	NA	10
+DRD2	clozapine	28	NA	10
+DRD3	clozapine	960	NA	10
+DRD2	olanzapine	32	NA	1
+DRD2	olanzapine	6.09999990463257	NA	1
+HTR2A	clozapine	5.4	NA	10
+HTR2C	clozapine	9.4	NA	10
+ADRA1A	clozapine	1.6	NA	10
+HRH1	clozapine	1.1	NA	10
+HRH1	clozapine	1.8	NA	10
+ADRA2C	clozapine	34	NA	10
+ADRA2B	clozapine	27	NA	10
+ADRA2A	clozapine	142	NA	10
+ADRA1B	clozapine	7	NA	10
+ADRA1A	clozapine	1.6	NA	10
+HTR2C	clozapine	17	NA	10
+HTR2A	clozapine	8.9	NA	10
+HTR1A	clozapine	140	NA	10
+DRD3	clozapine	240	NA	10
+DRD2	clozapine	130	NA	10
+HTR2A	clozapine	5.7543993733716	NA	10
+HTR2A	olanzapine	1.3182567385564	NA	1
+HTR2A	clozapine	15	NA	10
+DRD1	olanzapine	52.480746024977	NA	1
+DRD2	olanzapine	20.417379446695	NA	1
+DRD3	olanzapine	44.668359215096	NA	1
+DRD4	olanzapine	60.255958607436	NA	1
+HTR1A	olanzapine	2041.7379446695	NA	1
+HTR2A	olanzapine	3.2359365692963	NA	1
+HTR2C	olanzapine	10.232929922808	NA	1
+HTR6	olanzapine	10.232929922808	NA	1
+HTR7	olanzapine	245.4708915685	NA	1
+HRH1	olanzapine	2.7542287033382	NA	1
+DRD1	clozapine	288.40315031266	NA	10
+DRD2	clozapine	134.89628825917	NA	10
+DRD3	clozapine	239.88329190195	NA	10
+DRD4	clozapine	53.703179637025	NA	10
+HTR1A	clozapine	141.25375446228	NA	10
+HTR2A	clozapine	8.9125093813374	NA	10
+HTR2C	clozapine	17.378008287494	NA	10
+HTR6	clozapine	10.471285480509	NA	10
+HTR7	clozapine	66.06934480076	NA	10
+HRH1	clozapine	1.81970085861	NA	10
+HTR1A	clozapine	257.03957827689	NA	10
+HTR1A	olanzapine	1737.8008287494	NA	1
+HTR2A	clozapine	6.0255958607436	NA	10
+HTR2A	olanzapine	4.4668359215096	NA	1
+HTR3A	clozapine	81.28305161641	NA	10
+HTR3A	olanzapine	70.794578438414	NA	1
+HTR6	clozapine	10	NA	10
+HTR7	clozapine	77.624711662869	NA	10
+HTR7	olanzapine	208.9296130854	NA	1
+CHRM1	clozapine	6.0255958607436	NA	10
+CHRM1	olanzapine	7.0794578438414	NA	1
+CHRM2	clozapine	83.176377110267	NA	10
+CHRM2	olanzapine	47.863009232264	NA	1
+HTR2A	olanzapine	5.78	NA	1
+HTR1A	clozapine	123	NA	10
+HTR2A	clozapine	9.17	NA	10
+HTR7	clozapine	42.2	NA	10
+HRH1	clozapine	1.9	NA	10
+HTR1A	clozapine	140	NA	10
+HTR2A	clozapine	8.9	NA	10
+HTR2C	clozapine	17	NA	10
+HTR6	clozapine	11	NA	10
+HTR7	clozapine	66	NA	10
+CHRM1	clozapine	1.8	NA	10
+HTR1A	olanzapine	2100	NA	1
+HTR2A	olanzapine	3.3	NA	1
+HTR2C	olanzapine	10	NA	1
+HTR6	olanzapine	10	NA	1
+HTR7	olanzapine	250	NA	1
+CHRM1	olanzapine	4.7	NA	1
+ADRA2A	clozapine	79.432823472428	NA	10
+HTR1A	clozapine	143	NA	10
+HTR2A	clozapine	13	NA	10
+HTR6	clozapine	4	NA	10
+HTR7	clozapine	10000	NA	10
+HTR1A	olanzapine	3442	NA	1
+HTR2A	olanzapine	4	NA	1
+HTR6	olanzapine	7	NA	1
+HTR7	olanzapine	206	NA	1
+HTR5A	clozapine	1000	NA	10
+HTR6	clozapine	9.5	NA	10
+HTR7	clozapine	40	NA	10
+CHRM1	clozapine	9.4	NA	10
+CHRM1	isoclozapine	6	NA	NA
+HRH1	clozapine	199.52623149689	NA	10
+HRH4	clozapine	199.52623149689	NA	10
+HRH4	clozapine	398.1071705535	NA	10
+HRH4	clozapine	316.22776601684	NA	10
+DRD1	clozapine	189	NA	10
+DRD1	olanzapine	58	NA	1
+DRD2	clozapine	187	NA	10
+DRD2	olanzapine	31	NA	1
+HTR2A	clozapine	4	NA	10
+HTR2A	olanzapine	3.4	NA	1
+HTR1A	clozapine	105	NA	10
+HTR1A	olanzapine	2063	NA	1
+HRH1	clozapine	0.23	NA	10
+HRH1	olanzapine	0.65	NA	1
+HTR1A	clozapine	140	NA	10
+HTR2A	clozapine	80.9	NA	10
+HTR7	clozapine	66	NA	10
+HTR2C	clozapine	17	NA	10
+CHRM1	clozapine	1.8	NA	10
+HTR1A	clozapine	140	NA	10
+HTR2A	clozapine	8.9	NA	10
+HTR2C	clozapine	17	NA	10
+CHRM1	clozapine	1.8	NA	10
+HTR7	clozapine	18	NA	10
+HTR7	olanzapine	185	NA	1
+HTR1A	clozapine	143	NA	10
+HTR1A	olanzapine	3442	NA	1
+HTR6	clozapine	4	NA	10
+HTR6	olanzapine	5	NA	1
+HTR6	olanzapine	7	NA	1
+HTR2A	olanzapine	4.6	NA	1
+HTR6	olanzapine	7	NA	1
+HTR7	clozapine	18	NA	10
+HTR6	olanzapine	7	NA	1
+HTR7	clozapine	18	NA	10
+HTR2A	clozapine	13.489628825917	NA	10
+HTR2A	clozapine	0.54954087385762	NA	10
+HTR2C	clozapine	1.3182567385564	NA	10
+HTR2C	clozapine	691.83097091894	NA	10
+HTR2A	clozapine	1.3182567385564	NA	10
+HTR2A	clozapine	5.8884365535559	NA	10
+HTR1A	clozapine	104	NA	10
+HTR1A	olanzapine	1114	NA	1
+HTR1B	clozapine	2111	NA	10
+HTR1B	olanzapine	3157	NA	1
+HTR1D	clozapine	474	NA	10
+HTR1D	olanzapine	1062	NA	1
+HTR1E	clozapine	10000	NA	10
+HTR2A	olanzapine	9.2	NA	1
+HTR2A	clozapine	13	NA	10
+HTR2B	clozapine	4	NA	10
+HTR2B	olanzapine	7.2	NA	1
+HTR2C	olanzapine	16	NA	1
+HTR2C	clozapine	19	NA	10
+HTR3A	clozapine	47	NA	10
+HTR3A	olanzapine	125	NA	1
+HTR5A	olanzapine	1365	NA	1
+HTR6	olanzapine	13	NA	1
+HTR6	clozapine	14	NA	10
+HTR7	clozapine	21	NA	10
+HTR7	olanzapine	157	NA	1
